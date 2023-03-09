@@ -1,0 +1,10 @@
+title: Anirban Saha # your name (or website title) here
+logo: "/images/anirban.png?raw=true" # your photo (or logo) here
+is_user_page: True
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Machine Learning Engineer with over 2 years of end-to-end experience. Certified as Microsoft Azure Data Engineer, Azure Data Scientist and Azure AI Engineer.
+  <br><br>
+  <a href="https://www.linkedin.com/in/saha-anirban8/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+# google_analytics: G-N1XS1M4QLR # your Google Analytics tracking ID here
