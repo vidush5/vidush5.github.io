@@ -1,1 +1,3 @@
-The Portfolio is still in construction (In Day 0 Phase Right now)
+## Data Engineering & Analytics Portfolio Website
+
+This repository contains data engineering and analytics projects.
