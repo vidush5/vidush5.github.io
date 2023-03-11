@@ -2,8 +2,8 @@
 
 ---
 #### [Build ETL Pipeline with PySpark](https://github.com/anirbansaha96/AI-ML-Playground/blob/master/imagestyletransfer-vgg19.ipynb)
-<img src="images/style_transfer_output.jpg?raw=true"/>
-Used the VGG-16 Model to create new image from two given images. The new image will have the content of one image and the "style" of the other image. Think, about your picture with the style of Vincent Van Gogh's The Starry Night!
+<img src="images/project01.png?raw=true"/>
+This project involves building an ETL pipeline using Pyspark to extract data from a SQL Server database and load it into a PostgreSQL database. Pyspark's data processing features will be utilized to perform efficient data transformations. The aim is to develop a scalable and efficient ETL pipeline for seamless data integration between the two databases.
 
 <br>
 [Check out the Code](https://github.com/anirbansaha96/AI-ML-Playground/blob/master/imagestyletransfer-vgg19.ipynb)
