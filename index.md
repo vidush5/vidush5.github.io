@@ -24,4 +24,16 @@ The End to End Automated Data Pipeline project aims to streamline the data proce
 
 ---
 
+#### [Spark, PySpark Interview Questions & Answers compilation](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark%20Interview%20Questions)
+<img src="images/project03.png?raw=true"/>
+This repository is a collection of PySpark interview questions and answers that can help you prepare for PySpark-related interviews. PySpark is a Python-based interface for Apache Spark, which is a popular big data processing framework. PySpark is widely used in industry for big data processing, machine learning, and data analytics.
+
+<br>
+[Check out the Code](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark%20Interview%20Questions)
+<br>
+<!-- <form action="https://share.streamlit.io/anirbansaha96/asl/main/src/st_asl.py" method="get" target="_blank"><button type="submit">Try it out!</button></form> -->
+<br>
+
+---
+
 
