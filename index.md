@@ -13,8 +13,6 @@ This novypro websites showcases a dynamic array of Power BI dashboards, offering
 <br>
 
 ---
-
----
 #### [Build ETL Pipeline with PySpark](https://github.com/vidush5/Portfolio-Projects/tree/main/Build%20ETL%20Pipeline%20with%20PySpark)
 <img src="images/project01.png?raw=true"/>
 This project involves building an ETL pipeline using Pyspark to extract data from a SQL Server database and load it into a PostgreSQL database. Pyspark's data processing features will be utilized to perform efficient data transformations. The aim is to develop a scalable and efficient ETL pipeline for seamless data integration between the two databases.
