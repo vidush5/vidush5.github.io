@@ -1,5 +1,19 @@
 # Portfolio
 
+
+---
+#### [Power BI Projects](https://www.novypro.com/profile_projects/iamvidush)
+<img src="images/project_powerbi.jpg?raw=true"/>
+This novypro websites showcases a dynamic array of Power BI dashboards, offering insightful visualizations and analysis of data trends. Explore the latest innovations and emerging trends in Power BI.
+
+<br>
+[Check out the Code](https://www.novypro.com/profile_projects/iamvidush)
+<br>
+<!-- <form action="https://share.streamlit.io/anirbansaha96/asl/main/src/st_asl.py" method="get" target="_blank"><button type="submit">Try it out!</button></form> -->
+<br>
+
+---
+
 ---
 #### [Build ETL Pipeline with PySpark](https://github.com/vidush5/Portfolio-Projects/tree/main/Build%20ETL%20Pipeline%20with%20PySpark)
 <img src="images/project01.png?raw=true"/>
