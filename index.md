@@ -2,12 +2,12 @@
 
 
 ---
-#### [Data Analytics with PySpark]([https://www.novypro.com/profile_projects/iamvidush](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark-Data%20Processing))
+#### [Data Analytics with PySpark]([https://www.novypro.com/profile_projects/iamvidush](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark-Data%20Processing)])
 <img src="images/pysparkpro01.JPG?raw=true"/>
 In this endeavor, we aim to explore the utilization of Apache Spark for deriving valuable insights from a relational database. With three distinct data tables at our disposal, we engage in foundational join operations to amalgamate these tables, culminating in the creation of a denormalized data frame. This structured approach enables us to conduct further processing and analytics with ease, unlocking the potential inherent in our dataset.
 
 <br>
-[Check out the Code]([https://www.novypro.com/profile_projects/iamvidush](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark-Data%20Processing))
+[Check out the Code]([https://www.novypro.com/profile_projects/iamvidush](https://github.com/vidush5/Portfolio-Projects/tree/main/Spark-Data%20Processing)])
 <br>
 <!-- <form action="https://share.streamlit.io/anirbansaha96/asl/main/src/st_asl.py" method="get" target="_blank"><button type="submit">Try it out!</button></form> -->
 <br>
